@@ -20,3 +20,9 @@ chicago.csv, new york city.csv, washington.csv and the bikeshareEtson python fil
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 youtube links and some other libraries were useful to unlock some hints.
 
+Which city has the highest proportion of trips made by subscriptions ?
+A:New York with 88.84%.
+
+Which city has the highest proportion of trips made by short-term costumers ?
+A:Chicago with 23.77%.
+
